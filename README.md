@@ -34,14 +34,8 @@ Cohort-3.0-Python-Programming-Fellowship-Assignments/
 │   ├── README.md
 │   ├── solution.py
 │   └── tests/
-└── Project-Final/
-    ├── README.md
-    ├── main.py
-    ├── requirements.txt
-    └── tests/
 ```
 - **Assignment-X/**: Each folder contains the solutions and relevant files for a specific assignment.
-- **Project-Final/**: The capstone project of the fellowship program.
 
 ---
 
@@ -73,20 +67,12 @@ To run the code in this repository, you need the following:
 The repository contains the following assignments:
 
 ### Assignment 1: [Title of Assignment]
-- **Objective**: [Brief description of the assignment]
-- **Topics Covered**: [Topics, e.g., loops, functions, etc.]
 - **Solution**: [01_Module_Introduction](./Assignment-1/)
 
 ### Assignment 2: [Title of Assignment]
-- **Objective**: [Brief description of the assignment]
-- **Topics Covered**: [Topics, e.g., file handling, modules, etc.]
 - **Solution**: [Module_02_Variables_builtin_functio](./Assignment-2/)
 
-### Final Project: [Project Title]
-- **Objective**: [Brief description of the project]
-- **Topics Covered**: [Topics, e.g., APIs, web development, etc.]
-- **Solution**: [Module_03_Operators](./Project-Final/)
-
+### .......And more
 ---
 
 ## Contributing
